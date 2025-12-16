@@ -11,7 +11,7 @@ I enjoy working at the intersection of AI, backend engineering, and automation, 
 
 ## 🚀 About me:
 
-🔭 I'm currently working on **Recommendations_Event_Agent** - [Link](https://github.com/guiindiciate/Recommendations_Travel_Agent)
+🔭 I'm currently working on **Recommendations_Travel_Agent** - [Link](https://github.com/guiindiciate/Recommendations_Travel_Agent)
 
 👯 I'm looking to collaborate on **LangGraph Agent**
 
