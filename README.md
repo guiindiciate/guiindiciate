@@ -15,7 +15,7 @@ I enjoy working at the intersection of AI, backend engineering, and automation, 
 
 👯 I'm looking to collaborate on **LangGraph Agent**
 
-🌱 I'm currently learning **LangGraph, Multi-Agents, RAG, LLMs**
+🌱 I'm currently learning and improving about **LangGraph, Multi-Agents, RAG, LLMs**
 
 📫 How to reach me: [gui.indiciate@outlook.com](mailto:gui.indiciate@outlook.com)
 
