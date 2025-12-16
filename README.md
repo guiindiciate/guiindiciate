@@ -50,9 +50,9 @@ I enjoy working at the intersection of AI, backend engineering, and automation, 
 
 ## 📊 GitHub Statistics:
 
-![Guilherme Indiciate's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
+![Guilherme Indiciate's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiindiciate&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guiindiciate&layout=compact&theme=dark)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=.)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=guiindiciate.guiindiciate)
 
